@@ -1,0 +1,6 @@
+C:\Users\Roberto\source\repos\DLSqlGeneratorMySql\DLSqlGeneratorMySql\bin\Debug\DLSqlGeneratorMySql.dll
+C:\Users\Roberto\source\repos\DLSqlGeneratorMySql\DLSqlGeneratorMySql\bin\Debug\DLSqlGeneratorMySql.pdb
+C:\Users\Roberto\source\repos\DLSqlGeneratorMySql\DLSqlGeneratorMySql\obj\Debug\DLSqlGeneratorMySql.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\source\repos\DLSqlGeneratorMySql\DLSqlGeneratorMySql\obj\Debug\DLSqlGeneratorMySql.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\DLSqlGeneratorMySql\DLSqlGeneratorMySql\obj\Debug\DLSqlGeneratorMySql.dll
+C:\Users\Roberto\source\repos\DLSqlGeneratorMySql\DLSqlGeneratorMySql\obj\Debug\DLSqlGeneratorMySql.pdb
